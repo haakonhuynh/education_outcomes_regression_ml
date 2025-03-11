@@ -42,7 +42,7 @@ This project explores factors influencing standardized test scores across school
 ---
 
 ## 🧰 Tools Used
-- Python (Jupyter Notebook)
+- Python (Google Colab)
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 
 ---
